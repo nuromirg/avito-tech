@@ -1,0 +1,8 @@
+{
+    "dbname":       "avito",
+    "dbport":       "3306",
+    "loglevel":     "debug",
+    "bindaddr":     "localhost:8081",
+    "cacheaddr":    "localhost:6379",
+    "cachepass":    ""
+}
